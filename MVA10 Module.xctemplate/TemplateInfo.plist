@@ -11,7 +11,7 @@
 		<string>com.apple.platform.iphoneos</string>
 	</array>
 	<key>DefaultCompletionName</key>
-	<string>UKModule</string>
+	<string>MVA10 Module</string>
 	<key>Description</key>
 	<string>Basic Swift UK module template. Creates View, Interactor, ViewModel, Dispatcher</string>
 	<key>Kind</key>

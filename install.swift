@@ -5,7 +5,7 @@
 
 import Foundation
 
-let templateName = "UKModule.xctemplate"
+let templateName = "MVA10 Module.xctemplate"
 let destinationRelativePath = "/Library/Xcode/Templates/File Templates/Other"
 
 func printInConsole(_ message:Any) {
